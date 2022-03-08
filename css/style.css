@@ -1,0 +1,46 @@
+
+
+body {
+	background-color: dodgerblue;
+	color: white;
+	font-family: sans-serif;
+}
+
+header {
+	border-bottom: 2px solid white;
+}
+
+.fa-spotify {
+	font-size: 60px;
+	padding: 10px 10px;
+	color: white;
+}
+
+.albums ul {
+	padding-top: 30px;
+}
+
+.albums h5 {
+	height: 20px;
+	margin-bottom: 40px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+
+.albums li {
+	width: 220px;
+	height: 320px;
+	background-color: rgba(255, 255, 255, 0.2);
+}
+
+.albums img {
+	width: 150px;
+	height: auto;
+}
+
+.albums p {
+	text-transform: uppercase;
+	font-weight: 600;
+	color: gray;
+	margin-bottom: 5px;
+}
